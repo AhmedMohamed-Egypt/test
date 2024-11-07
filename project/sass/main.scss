@@ -1,0 +1,12 @@
+//@import './bootstrap/bootstrap.min';
+
+@import "_vars.scss";
+@import "_mixins.scss";
+@import "_typography.scss";
+@import "_helpers.scss";
+@import "layout.scss";
+@import "responsive/_common-resposive.scss";
+@import "responsive/_Desktop.scss";
+@import "responsive/_tablet.scss";
+@import "responsive/_mobile.scss";
+@import "./animate.scss";
